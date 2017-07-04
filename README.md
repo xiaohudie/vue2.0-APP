@@ -21,7 +21,7 @@
 ### 在线预览
 _____
 **线上体验**： [demo](https://sukura7.github.io/vue-xianyu-demo/index.html#/) <br>
-**源码**： [源码](https://github.com/Sukura7/vue-ali-xianyu) <br>
+**源码**： [源码](https://github.com/xiaohudie/vue2.0-APP) <br>
 
 # 技术栈
 * vue 页面显示
